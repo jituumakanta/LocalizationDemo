@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="title" translatable="false">Maps</string>
+    <string name="open_in" translatable="false">Open in Google Maps</string>
+</resources>

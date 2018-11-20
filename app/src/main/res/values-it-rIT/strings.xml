@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="title" translatable="false">マップ</string>
+    <string name="open_in" translatable="false">Googleマップで開</string>
+</resources>
